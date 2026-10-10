@@ -1,0 +1,1195 @@
+[
+  {
+    "n": "中国知网 CNKI",
+    "d": "国内最大中文学术文献平台，期刊、博硕、会议、报纸、年鉴全库检索",
+    "u": "https://www.cnki.net",
+    "r": "cn",
+    "a": "login",
+    "c": "comp",
+    "t": "期刊/博硕/会议"
+  },
+  {
+    "n": "万方数据",
+    "d": "期刊、学位、会议、专利、成果综合检索平台",
+    "u": "https://www.wanfangdata.com.cn",
+    "r": "cn",
+    "a": "login",
+    "c": "comp"
+  },
+  {
+    "n": "维普期刊",
+    "d": "中文科技期刊全文数据库，覆盖自然科学与工程技术",
+    "u": "http://qikan.cqvip.com",
+    "r": "cn",
+    "a": "login",
+    "c": "comp",
+    "t": "期刊全文"
+  },
+  {
+    "n": "百度学术",
+    "d": "中外文学术资源一站式搜索，含学者主页与引用分析",
+    "u": "https://xueshu.baidu.com",
+    "r": "cn",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "国家哲学社会科学文献中心",
+    "d": "免费社科文献平台，上线文献数据超过1000万条",
+    "u": "https://www.ncpssd.org",
+    "r": "cn",
+    "a": "free",
+    "c": "comp",
+    "t": "注册免费"
+  },
+  {
+    "n": "国家哲学社会科学学术期刊数据库",
+    "d": "国内最大公益性社科精品期刊库，收录精品期刊600余种、论文近300万篇",
+    "u": "http://www.nssd.org",
+    "r": "cn",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "国家科技图书文献中心 NSTL",
+    "d": "现有期刊资源6908种、会议资源1506个，中外文文献一站式检索",
+    "u": "https://www.nstl.gov.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "comp",
+    "t": "注册免费"
+  },
+  {
+    "n": "中西文科技文献服务平台",
+    "d": "中科院系统建设的中西文科技文献检索平台",
+    "u": "http://lib.sstir.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "中国科学院文献情报中心",
+    "d": "国家科学图书馆，科技文献资源门户",
+    "u": "https://www.las.ac.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "中国学术会议在线",
+    "d": "教育部主办的学术会议信息与资源分享平台",
+    "u": "http://www.meeting.edu.cn/meeting/",
+    "r": "cn",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "中国科技论文在线",
+    "d": "自然科学领域论文成果发布与检索平台",
+    "u": "http://www.paper.edu.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "中国科技论文在线·精品论文",
+    "d": "自然科学领域精选论文成果",
+    "u": "http://highlights.paper.edu.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "中国预印本服务系统",
+    "d": "预印本文献资源，含国内预印本子系统与国外门户SINDAP",
+    "u": "http://prep.istic.ac.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "comp",
+    "t": "预印本"
+  },
+  {
+    "n": "中图在线 CNPLINKER",
+    "d": "提供3600种国外期刊的查阅服务",
+    "u": "http://cnplinker.cnpeak.com",
+    "r": "cn",
+    "a": "free",
+    "c": "comp",
+    "t": "外刊"
+  },
+  {
+    "n": "全国图书馆参考咨询联盟",
+    "d": "跨馆文献传递服务平台，绝大多数文献需通过邮箱接收",
+    "u": "http://www.ucdrs.superlib.net",
+    "r": "cn",
+    "a": "free",
+    "c": "comp",
+    "t": "文献传递"
+  },
+  {
+    "n": "读秀知识库",
+    "d": "中文图书一站式检索、试读与文献传递",
+    "u": "https://www.duxiu.com",
+    "r": "cn",
+    "a": "login",
+    "c": "comp",
+    "t": "图书"
+  },
+  {
+    "n": "超星发现",
+    "d": "超星学术资源统一发现与检索系统",
+    "u": "https://www.chaoxing.com",
+    "r": "cn",
+    "a": "login",
+    "c": "comp"
+  },
+  {
+    "n": "Google Scholar 谷歌学术",
+    "d": "全球使用最广的免费学术搜索引擎",
+    "u": "https://scholar.google.com",
+    "r": "intl",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "Semantic Scholar",
+    "d": "AI驱动的免费学术搜索引擎与文献推荐",
+    "u": "https://www.semanticscholar.org",
+    "r": "intl",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "OpenAlex",
+    "d": "开放获取的全球学术文献数据目录",
+    "u": "https://openalex.org",
+    "r": "intl",
+    "a": "free",
+    "c": "comp"
+  },
+  {
+    "n": "Web of Science",
+    "d": "权威引文索引数据库，含SCIE/SSCI等核心合集",
+    "u": "https://www.webofscience.com",
+    "r": "intl",
+    "a": "login",
+    "c": "comp",
+    "t": "引文索引"
+  },
+  {
+    "n": "Scopus",
+    "d": "Elsevier旗舰文摘与引文数据库，覆盖全学科",
+    "u": "https://www.scopus.com",
+    "r": "intl",
+    "a": "login",
+    "c": "comp",
+    "t": "引文索引"
+  },
+  {
+    "n": "ScienceDirect",
+    "d": "Elsevier全文期刊库，收录论文超25万篇",
+    "u": "https://www.sciencedirect.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "comp",
+    "t": "全文"
+  },
+  {
+    "n": "BASE",
+    "d": "德国比勒费尔德大学维护的开放获取搜索引擎",
+    "u": "https://www.base-search.net",
+    "r": "intl",
+    "a": "free",
+    "c": "comp",
+    "t": "OA"
+  },
+  {
+    "n": "CORE",
+    "d": "全球开放获取论文聚合平台",
+    "u": "https://core.ac.uk",
+    "r": "intl",
+    "a": "free",
+    "c": "comp",
+    "t": "OA"
+  },
+  {
+    "n": "Lens.org",
+    "d": "学术文献与专利一体化检索平台",
+    "u": "https://www.lens.org",
+    "r": "intl",
+    "a": "free",
+    "c": "comp",
+    "t": "专利+文献"
+  },
+  {
+    "n": "Dimensions",
+    "d": "文献、引文、资助、专利多维科研数据库",
+    "u": "https://app.dimensions.ai",
+    "r": "intl",
+    "a": "free",
+    "c": "comp",
+    "t": "注册免费"
+  },
+  {
+    "n": "AMiner",
+    "d": "学者画像与论文数据挖掘平台",
+    "u": "https://www.aminer.cn",
+    "r": "intl",
+    "a": "free",
+    "c": "comp",
+    "t": "学者主页"
+  },
+  {
+    "n": "INFOMINE 学术资源",
+    "d": "汇集高校及研究人员使用的各学科、各种文献类型的互联网学术资源",
+    "u": "http://infomine.ucr.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "comp",
+    "t": "学科导航"
+  },
+  {
+    "n": "ERIC 教育资源信息中心",
+    "d": "世界上最大的教育资源数据库，收录980余种教育期刊题录与文摘",
+    "u": "https://eric.ed.gov",
+    "r": "intl",
+    "a": "partial",
+    "c": "comp",
+    "t": "教育"
+  },
+  {
+    "n": "Nature 自然",
+    "d": "顶级综合科学期刊官网，在线论文可免费查看部分全文",
+    "u": "https://www.nature.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "Science 科学",
+    "d": "权威科研杂志，免费注册后可下载1997年以前论文全文",
+    "u": "https://www.science.org",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "PNAS 美国科学院院报",
+    "d": "世界上被引用次数最多的综合学科刊物之一，SCI综合学科排名前列",
+    "u": "https://www.pnas.org",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "PLOS 公共科学图书馆",
+    "d": "由诺贝尔奖得主等支持的非营利开放获取组织，生命科学与医学期刊免费全文",
+    "u": "https://plos.org",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "OA"
+  },
+  {
+    "n": "DOAJ 开放获取期刊目录",
+    "d": "免费的全文科技学术期刊目录，支持全文搜索",
+    "u": "https://doaj.org",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "OA"
+  },
+  {
+    "n": "SpringerLink",
+    "d": "施普林格电子期刊与电子图书全文平台",
+    "u": "https://link.springer.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "Wiley Online Library",
+    "d": "收录1500余种期刊、10000余本在线图书，共400多万篇文章",
+    "u": "https://onlinelibrary.wiley.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "Taylor & Francis Online",
+    "d": "国际知名学术出版社期刊全文平台",
+    "u": "https://www.tandfonline.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "SAGE Journals",
+    "d": "SAGE出版社期刊全文平台",
+    "u": "https://journals.sagepub.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "Cambridge Core",
+    "d": "剑桥大学出版社期刊与电子书平台",
+    "u": "https://www.cambridge.org/core",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "Oxford Academic",
+    "d": "牛津大学出版社期刊全文平台",
+    "u": "https://academic.oup.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "JSTOR",
+    "d": "人文社科回溯期刊与图书数据库，馆藏深厚",
+    "u": "https://www.jstor.org",
+    "r": "intl",
+    "a": "login",
+    "c": "jour",
+    "t": "机构订阅"
+  },
+  {
+    "n": "Project MUSE",
+    "d": "人文社科领域学术期刊与电子书平台",
+    "u": "https://muse.jhu.edu",
+    "r": "intl",
+    "a": "login",
+    "c": "jour"
+  },
+  {
+    "n": "IEEE Xplore",
+    "d": "电子工程、计算机与信息技术领域权威文献库",
+    "u": "https://ieeexplore.ieee.org",
+    "r": "intl",
+    "a": "login",
+    "c": "jour"
+  },
+  {
+    "n": "ACM Digital Library",
+    "d": "美国计算机学会全文文献库",
+    "u": "https://dl.acm.org",
+    "r": "intl",
+    "a": "login",
+    "c": "jour"
+  },
+  {
+    "n": "HighWire Press",
+    "d": "斯坦福大学著名学术出版商，近240万篇文章可免费获得全文",
+    "u": "https://www.highwirepress.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "汉斯出版社",
+    "d": "提供125本国际开源中文期刊的免费下载阅读",
+    "u": "http://www.hanspub.org",
+    "r": "cn",
+    "a": "free",
+    "c": "jour",
+    "t": "OA"
+  },
+  {
+    "n": "科研出版社 SCIRP",
+    "d": "180余种OA期刊电子版本，文章超10000篇",
+    "u": "https://www.scirp.org/journal",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "OA"
+  },
+  {
+    "n": "加拿大 NRC Research Press",
+    "d": "农业科学、生物信息、生命科学、纳米等领域的OA学术期刊",
+    "u": "https://www.nrcresearchpress.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "jour"
+  },
+  {
+    "n": "美国国家科学院出版社 NAP",
+    "d": "3000余部科学、工程和健康卫生领域著作可在线阅读",
+    "u": "https://www.nap.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "jour"
+  },
+  {
+    "n": "欧洲数学会电子图书馆",
+    "d": "数学期刊、会议论文集、专著、演讲全文浏览",
+    "u": "http://emis.math.ecnu.edu.cn/journals",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "数学"
+  },
+  {
+    "n": "Journal of Statistical Software",
+    "d": "统计软件期刊，1996年至今内容全文免费获取",
+    "u": "https://www.jstatsoft.org",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "统计"
+  },
+  {
+    "n": "Living Reviews 系列期刊",
+    "d": "德国马普学会创办的开放获取评论期刊",
+    "u": "https://www.livingreviews.org",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "OA"
+  },
+  {
+    "n": "Socolar",
+    "d": "整理全球重要OA期刊10000余种与OA仓储1000余种",
+    "u": "http://www.socolar.com",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "OA"
+  },
+  {
+    "n": "OALib 开放存取资源图书馆",
+    "d": "提供400多万篇免费下载的英文期刊论文，涵盖所有学科",
+    "u": "http://www.oalib.com",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "OA"
+  },
+  {
+    "n": "Bioline International",
+    "d": "提供发展中国家（巴西、印度、南非、乌干达等）出版的高质量OA期刊",
+    "u": "https://www.bioline.org.br",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "OA"
+  },
+  {
+    "n": "HINARI / Research4Life",
+    "d": "世界卫生组织建立，提供生物医学与卫生文献项目，含3280种期刊",
+    "u": "https://www.research4life.org",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "医学OA"
+  },
+  {
+    "n": "eScholarship",
+    "d": "加州大学国际和区域数字馆藏，已出版期刊论文、研究手稿等可免费阅读",
+    "u": "https://escholarship.org",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "机构库"
+  },
+  {
+    "n": "FullText 免费全文期刊",
+    "d": "提供7000多种学术期刊的免费全文获取",
+    "u": "http://www.freefulltext.com",
+    "r": "intl",
+    "a": "free",
+    "c": "jour"
+  },
+  {
+    "n": "Open J-Gate",
+    "d": "基于开放获取的近4000种期刊的免费检索与全文链接",
+    "u": "http://www.openj-gate.com",
+    "r": "intl",
+    "a": "free",
+    "c": "jour",
+    "t": "OA"
+  },
+  {
+    "n": "CALIS 高校学位论文库",
+    "d": "全国高校学位论文联合目录，提供免费文摘",
+    "u": "http://opac.calis.edu.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "中国科学院学位论文数据库",
+    "d": "中科院学位论文免费文摘（ScienceChina）",
+    "u": "http://sciencechina.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "NSTL 中文学位论文库",
+    "d": "国家科技图书文献中心学位论文数据库，免费文摘",
+    "u": "https://www.nstl.gov.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "NDLTD 全球学位论文联盟",
+    "d": "网络数字图书馆论文联盟，汇集澳大利亚、加拿大、欧洲、港台、美国论文",
+    "u": "https://ndltd.org",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "DART-Europe E-theses",
+    "d": "欧洲学位论文库，收录欧洲28国563所大学的开放学术资源",
+    "u": "http://www.dart-europe.eu",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "PQDT 学位论文库",
+    "d": "ProQuest博硕士学位论文数据库，全球规模最大的学位论文库之一",
+    "u": "https://www.proquest.com",
+    "r": "intl",
+    "a": "login",
+    "c": "thesis"
+  },
+  {
+    "n": "EBSCO",
+    "d": "综合数据库平台，含学术期刊、图书与学位论文",
+    "u": "https://www.ebsco.com",
+    "r": "intl",
+    "a": "login",
+    "c": "thesis"
+  },
+  {
+    "n": "加拿大学位论文门户",
+    "d": "收录加拿大1300多个图书馆的学位论文信息",
+    "u": "https://library-archives.canada.ca",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "澳洲数字论文计划",
+    "d": "原含澳洲40余所大学15440篇硕博论文（计划已停用，可改用澳大利亚国家图书馆Trove检索）",
+    "u": "https://trove.nla.gov.au",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis",
+    "t": "替代入口"
+  },
+  {
+    "n": "北卡罗来纳州立大学论文库",
+    "d": "3937篇免费博硕论文，涵盖化学、物理、电气、机械、材料等",
+    "u": "https://repository.lib.ncsu.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "宾夕法尼亚州立大学论文库",
+    "d": "1848篇全文，覆盖材料、教育、工学、法学、医学、经济等学科",
+    "u": "https://etda.libraries.psu.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "伍斯特工学院论文库",
+    "d": "670余篇学位论文，550余篇全文，涵盖生物、电子、计算机、机械等",
+    "u": "https://www.wpi.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis",
+    "t": "原ETD并入机构库"
+  },
+  {
+    "n": "OhioLINK ETD Center",
+    "d": "俄亥俄州高校电子学位论文，含12677条记录，可在线翻译成中文",
+    "u": "https://etd.ohiolink.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "密西根大学 Deep Blue",
+    "d": "2万多篇期刊论文、技术报告、评论等文献全文",
+    "u": "https://deepblue.lib.umich.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis",
+    "t": "机构库"
+  },
+  {
+    "n": "华盛顿大学论文库",
+    "d": "提供免费的电子书、论文、期刊，全文免费下载",
+    "u": "https://library.wustl.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "诺丁汉大学论文库",
+    "d": "诺丁汉大学博士、硕士研究与会议论文",
+    "u": "https://eprints.nottingham.ac.uk",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "香港科技大学机构库",
+    "d": "港科大图书馆Dspace，学术论文、学位论文、研究报告均可免费获取全文",
+    "u": "https://repository.hkust.edu.hk",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "剑桥大学机构知识库",
+    "d": "剑桥大学相关期刊、学术论文、学位论文等电子资源",
+    "u": "https://www.repository.cam.ac.uk",
+    "r": "intl",
+    "a": "free",
+    "c": "thesis"
+  },
+  {
+    "n": "中国国家图书馆",
+    "d": "中国国家图书馆数字平台",
+    "u": "https://www.nlc.gov.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "国家图书馆中文图书数字化资源库",
+    "d": "提供17万多种各学科图书，可在线阅读",
+    "u": "http://mylib.nlc.cn/web/guest/zhongwentushu",
+    "r": "cn",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "台湾大学图书馆电子书",
+    "d": "台湾大学图书馆免费电子书",
+    "u": "http://ebooks.lib.ntu.edu.tw",
+    "r": "cn",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "台湾学术文献数据库 Airiti",
+    "d": "台湾学术期刊与学位论文全文库",
+    "u": "https://www.airitilibrary.com",
+    "r": "cn",
+    "a": "login",
+    "c": "book"
+  },
+  {
+    "n": "CADAL 大学数字图书馆",
+    "d": "中英文古籍与民国文献数字化平台",
+    "u": "https://www.cadal.edu.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "book",
+    "t": "古籍"
+  },
+  {
+    "n": "Project Gutenberg 古腾堡计划",
+    "d": "提供超过5万本免费电子书籍",
+    "u": "https://www.gutenberg.org",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "世界数字图书馆",
+    "d": "以多语种形式免费提供源于世界各地各文化的重要原始材料",
+    "u": "https://www.wdl.org",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "Manybooks",
+    "d": "国外大量免费电子图书，可下载",
+    "u": "https://manybooks.net",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "HathiTrust",
+    "d": "全球图书馆数字化图书联盟，海量扫描图书全文",
+    "u": "https://www.hathitrust.org",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "Internet Archive 互联网档案馆",
+    "d": "海量数字化图书、期刊与网页存档",
+    "u": "https://archive.org",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "阿德雷德大学电子文本中心",
+    "d": "古典文学、哲学、科学和医学著作",
+    "u": "https://ebooks.adelaide.edu.au",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "澳大利亚国立大学电子出版库",
+    "d": "ANU开放出版仓储",
+    "u": "http://dspace.anu.edu.au",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "墨尔本大学电子出版物",
+    "d": "墨大ePrints开放仓储",
+    "u": "http://www.lib.unimelb.edu.au/eprints",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "昆士兰大学数字文库",
+    "d": "昆士兰大学eSpace开放仓储",
+    "u": "http://espace.library.uq.edu.au",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "悉尼大学 SETIS",
+    "d": "悉尼大学学术电子文本及图像服务",
+    "u": "http://setis.library.usyd.edu.au",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "Bartleby.com",
+    "d": "世界历史百科全书与哈佛经典著作，提供免费电子文本",
+    "u": "https://www.bartleby.com",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "Bibliomania",
+    "d": "提供超过2000部免费电子文献与研究成果",
+    "u": "https://www.bibliomania.com",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "Infomotions",
+    "d": "英美文学与西方哲学公开著作",
+    "u": "http://infomotions.com",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "宾夕法尼亚大学数字图书馆",
+    "d": "超过16000部在线电子书",
+    "u": "https://digital.library.upenn.edu/books",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "牛津大学文本档案 OTA",
+    "d": "教学与研究高品质文献，公共区域可免费检索与下载",
+    "u": "https://ota.bodleian.ox.ac.uk",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "弗吉尼亚大学电子文献中心",
+    "d": "超过10000部公开著作及164000幅图像",
+    "u": "http://www2.lib.virginia.edu/etext",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "Gallica 法国国家图书馆",
+    "d": "世界最大的免费图书馆之一，法文文献为主",
+    "u": "https://gallica.bnf.fr",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "日本青空文库",
+    "d": "日本公版文学电子书，支持HTML、ZIP与日文电子书格式",
+    "u": "https://www.aozora.gr.jp",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "奥地利文献",
+    "d": "超过12000部奥地利文献，甚至包括明信片，可在线访问",
+    "u": "https://www.literature.at",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "麻省理工开放课程 MIT OCW",
+    "d": "麻省理工学院免费开放课程资源",
+    "u": "https://ocw.mit.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "book",
+    "t": "课程"
+  },
+  {
+    "n": "MathWorld 数学世界",
+    "d": "为学生、教育家、数学爱好者与研究者准备的全面数学百科全书",
+    "u": "https://mathworld.wolfram.com",
+    "r": "intl",
+    "a": "free",
+    "c": "book",
+    "t": "数学"
+  },
+  {
+    "n": "库尔特·斯塔博在线图书馆",
+    "d": "收藏古代和现代大量生物学著作，含珍本，可在线阅读",
+    "u": "http://www.zum.de",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "科廷大学技术文献库",
+    "d": "科廷大学科研人员和研究生的科研成果",
+    "u": "http://espace.library.curtin.edu.au",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "澳大利亚数字化人文门户",
+    "d": "澳大利亚人文学界的数字化资源门户",
+    "u": "http://www.ehum.edu.au",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "DLESE 地球系统教育数字图书馆",
+    "d": "环境、地理、地质、海洋等地球科学教育资源",
+    "u": "http://www.dlese.org",
+    "r": "intl",
+    "a": "free",
+    "c": "book"
+  },
+  {
+    "n": "b-ok.org 电子图书馆",
+    "d": "提供超过270万本图书、超5000万篇论文（版权争议站点，请谨慎使用并遵守所在国法律法规）",
+    "u": "http://b-ok.org",
+    "r": "intl",
+    "a": "free",
+    "c": "book",
+    "t": "版权风险"
+  },
+  {
+    "n": "arXiv",
+    "d": "面向物理学、数学、非线性科学、计算机科学和定量生物学等学科的预印本库",
+    "u": "https://arxiv.org",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "bioRxiv",
+    "d": "生命科学领域预印本平台",
+    "u": "https://www.biorxiv.org",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "medRxiv",
+    "d": "医学领域预印本平台",
+    "u": "https://www.medrxiv.org",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "chemRxiv",
+    "d": "化学领域预印本平台",
+    "u": "https://chemrxiv.org",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "SSRN",
+    "d": "社会科学（经济类）研究论文数据库，部分提供全文",
+    "u": "https://www.ssrn.com",
+    "r": "intl",
+    "a": "partial",
+    "c": "preprint"
+  },
+  {
+    "n": "Zenodo",
+    "d": "CERN托管的开放数据与研究产出存储平台",
+    "u": "https://zenodo.org",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "Figshare",
+    "d": "研究数据与成果开放共享平台",
+    "u": "https://figshare.com",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "ResearchGate",
+    "d": "科研社交网络，论文共享与学者互动",
+    "u": "https://www.researchgate.net",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "Academia.edu",
+    "d": "学术论文分享平台",
+    "u": "https://www.academia.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "Cogprints",
+    "d": "心理学、神经科学、语言学、哲学、生物学、人类学等电子文献",
+    "u": "http://cogprints.org",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "CERN Document Server",
+    "d": "主要覆盖物理学及相关学科，提供36万多篇全文文献",
+    "u": "https://cds.cern.ch",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "DSpace@MIT",
+    "d": "麻省理工机构知识库",
+    "u": "https://dspace.mit.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "preprint"
+  },
+  {
+    "n": "中国国家数据",
+    "d": "国家统计局提供的海量数据查询与下载数据库，含各地区各国数据",
+    "u": "https://data.stats.gov.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "data",
+    "t": "统计"
+  },
+  {
+    "n": "Google Patents",
+    "d": "全球专利免费检索",
+    "u": "https://patents.google.com",
+    "r": "intl",
+    "a": "free",
+    "c": "data",
+    "t": "专利"
+  },
+  {
+    "n": "Espacenet",
+    "d": "欧洲专利局全球专利检索系统",
+    "u": "https://worldwide.espacenet.com",
+    "r": "intl",
+    "a": "free",
+    "c": "data",
+    "t": "专利"
+  },
+  {
+    "n": "国家知识产权局专利检索",
+    "d": "中国专利检索与分析系统",
+    "u": "https://pss-system.cponline.cnipa.gov.cn",
+    "r": "cn",
+    "a": "free",
+    "c": "data",
+    "t": "专利"
+  },
+  {
+    "n": "世界银行开放知识库",
+    "d": "汇集27000余篇世界银行报告",
+    "u": "https://openknowledge.worldbank.org",
+    "r": "intl",
+    "a": "free",
+    "c": "data",
+    "t": "报告"
+  },
+  {
+    "n": "UNESCO 文档",
+    "d": "联合国教科文组织提供的自然科学与社会科学文档，含中文",
+    "u": "https://www.unesco.org",
+    "r": "intl",
+    "a": "free",
+    "c": "data"
+  },
+  {
+    "n": "Science.gov",
+    "d": "美国“科学”网站，以研究与开发报告为主，信息免费使用",
+    "u": "https://www.science.gov",
+    "r": "intl",
+    "a": "free",
+    "c": "data"
+  },
+  {
+    "n": "OSTI 能源引文数据库",
+    "d": "美国能源部科技信息摘要，覆盖材料、环境、计算机、能源与物理",
+    "u": "https://www.osti.gov",
+    "r": "intl",
+    "a": "free",
+    "c": "data"
+  },
+  {
+    "n": "NASA 技术报告服务 NTRS",
+    "d": "航空航天领域科技报告与会议论文",
+    "u": "https://ntrs.nasa.gov",
+    "r": "intl",
+    "a": "free",
+    "c": "data"
+  },
+  {
+    "n": "govinfo 美国政府出版物",
+    "d": "美国政府官方文献（原GPO Access已升级为govinfo）",
+    "u": "https://www.govinfo.gov",
+    "r": "intl",
+    "a": "free",
+    "c": "data",
+    "t": "政府文献"
+  },
+  {
+    "n": "National Academies 出版物",
+    "d": "美国国家科学院、国家工程院、医学协会等机构的论文、报告与PPT",
+    "u": "https://www.nationalacademies.org/publications",
+    "r": "intl",
+    "a": "free",
+    "c": "data",
+    "t": "报告"
+  },
+  {
+    "n": "PubMed",
+    "d": "美国国家医学图书馆与国立卫生研究院建立的医学学术网站，生物医学文献超2100万",
+    "u": "https://pubmed.ncbi.nlm.nih.gov",
+    "r": "intl",
+    "a": "free",
+    "c": "med"
+  },
+  {
+    "n": "PubMed Central (PMC)",
+    "d": "美国NCBI建立的数字化生命科学期刊文献集，提供50余种生物医学期刊免费全文",
+    "u": "https://www.ncbi.nlm.nih.gov/pmc",
+    "r": "intl",
+    "a": "free",
+    "c": "med"
+  },
+  {
+    "n": "Europe PMC",
+    "d": "欧洲生命科学文献与预印本聚合平台",
+    "u": "https://europepmc.org",
+    "r": "intl",
+    "a": "free",
+    "c": "med"
+  },
+  {
+    "n": "中华医学期刊全文数据库",
+    "d": "中华医学会系列期刊官方全文平台",
+    "u": "https://www.yiigle.com",
+    "r": "cn",
+    "a": "free",
+    "c": "med",
+    "t": "注册免费"
+  },
+  {
+    "n": "在线医学百科全书",
+    "d": "超过1500主题，包括康复、疾病、伤害、营养、手术、症状、试验",
+    "u": "http://www.healthopedia.com",
+    "r": "intl",
+    "a": "free",
+    "c": "med"
+  },
+  {
+    "n": "医生的免费电子书",
+    "d": "免费使用的医学电子书",
+    "u": "http://freebooks4doctors.com",
+    "r": "intl",
+    "a": "free",
+    "c": "med"
+  },
+  {
+    "n": "北大法宝",
+    "d": "可检索法律法规、司法案例、法学期刊、律所实务等内容的法律数据库",
+    "u": "https://www.pkulaw.cn",
+    "r": "cn",
+    "a": "partial",
+    "c": "law"
+  },
+  {
+    "n": "NBER 美国经济研究局",
+    "d": "美国全国经济研究局工作论文，免费下载",
+    "u": "https://www.nber.org",
+    "r": "intl",
+    "a": "free",
+    "c": "law"
+  },
+  {
+    "n": "RePEc / IDEAS",
+    "d": "经济学文献与工作论文聚合平台",
+    "u": "https://ideas.repec.org",
+    "r": "intl",
+    "a": "free",
+    "c": "law"
+  },
+  {
+    "n": "ICPSR 社会科学数据档案库",
+    "d": "世界最大的社会科学文献网站，校际政治与社会研究联盟",
+    "u": "https://www.icpsr.umich.edu",
+    "r": "intl",
+    "a": "free",
+    "c": "law",
+    "t": "社科数据"
+  },
+  {
+    "n": "ChinaXiv 中科院科技论文预发布平台",
+    "d": "中国科学院主办的预印本发布与检索平台，覆盖全学科",
+    "u": "http://www.chinaxiv.org",
+    "r": "cn",
+    "a": "free",
+    "c": "preprint",
+    "t": "预印本"
+  }
+]
